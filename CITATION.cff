@@ -1,5 +1,9 @@
 cff-version: 1.2.0
 title: "PyHEP 2023 JupyterLite Slides"
+abstract: |
+    When enumerating the environments in which HEP researchers perform their analyses, the browser may not be the first that comes to mind. Yet, recent innovations in the tooling behind conda-forge, Emscripten, and web-assembly have made it easier than ever to deploy complex, multiple-dependency environments to the web.
+    
+    An introduction will be given to the technologies that make this possible, followed by a demonstration of deploying a HEP tutorial analysis to GitHub pages. An emphasis will be made upon the importance of porting HEP packages with compiled code to leverage these new features.
 message: "If you use this software, please cite it as below."
 doi: "10.5281/zenodo.8431949 "
 date-released: "2023-10-11"
